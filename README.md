@@ -2,7 +2,7 @@
 
 ## Deep Learning for Computer Vision
 
-This repository shares the learning process of the course CS221 in fall 2019 with online materials from Stanford University. The results are divided into the following two parts:
+This repository shares the learning process of the course CS231n with online materials from Stanford University. The results are divided into the following two parts:
 
 1. Lecture and reading notes, some with summaries titled *Thinking*
 
